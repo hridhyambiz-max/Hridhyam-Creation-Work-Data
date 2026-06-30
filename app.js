@@ -2,13 +2,13 @@ import { initializeApp } from 'https://www.gstatic.com/firebasejs/10.12.4/fireba
 import { getFirestore, collection, doc, getDoc, getDocs, setDoc, addDoc, updateDoc, deleteDoc, serverTimestamp } from 'https://www.gstatic.com/firebasejs/10.12.4/firebase-firestore.js';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyC5tFS7Pw4pGoFy7Shl5DShHCanWns9Y4o',
-  authDomain: 'office-attendance-system-b7961.firebaseapp.com',
-  projectId: 'office-attendance-system-b7961',
-  storageBucket: 'office-attendance-system-b7961.firebasestorage.app',
-  messagingSenderId: '740619580980',
-  appId: '1:740619580980:web:f1099f8a0fef03efd83c61',
-  measurementId: 'G-CKTB4S6883'
+  apiKey: "AIzaSyB-Gflkxik-g860JJmJBBM07qP6lQAQB88",
+  authDomain: "hridhyam-creation-all-company.firebaseapp.com",
+  projectId: "hridhyam-creation-all-company",
+  storageBucket: "hridhyam-creation-all-company.firebasestorage.app",
+  messagingSenderId: "939302982151",
+  appId: "1:939302982151:web:e2574a55869d0f7291d0a2",
+  measurementId: "G-JFD7141T87"
 };
 
 const app = initializeApp(firebaseConfig);
